@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "satellite",
+  "displayName": "Satellite",
+  "description": "Describe me",
+  "rootNerdletId": "d2bc0f27-1692-4b5f-9294-a42679eff2dd.prernanerdpack"
+}
